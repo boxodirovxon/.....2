@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    position: relative;
+}
+h3{
+    position: absolute;
+    top: 150px;
+}
+span{
+    position: absolute;
+    top: 200px;
+}
+h1{
+    position: absolute;
+    top: 80px;
+}
